@@ -5,7 +5,7 @@ if (muaji > 12 || muaji < 1) {
 }
 
 else if (muaji <= 2 || muaji == 12) {
-    console.log("Dimer!")
+    console.log("Dimer! E dua shume")
 }
 else if (muaji >= 3 && muaji <= 5) {
     console.log("Pranvere!")
